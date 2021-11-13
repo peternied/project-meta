@@ -109,3 +109,9 @@
 /opensearch-dashboards-functional-test/
 /opensearch-dashboards-test-library/
 /opensearch-ci/
+/opensearch-clients/
+/opensearch-dsl-py/
+/opensearch-php/
+/opensearch-rs/
+/opensearch-ruby/
+/project-website-search/
