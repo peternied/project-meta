@@ -7,7 +7,7 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer  | GitHub ID                                 | Affiliation |
 | ----------- | ----------------------------------------- | ----------- |
 | Andrew Ross | [andrross](https://github.com/andrross)   | Amazon      |
-| Peter Nied  | [peternied](https://github.com/peternied) | Amazon      |
+| Peter Nied  | [peternied](https://github.com/peternied) | Airbnb      |
 | Vacha Shah  | [VachaShah](https://github.com/VachaShah) | Amazon      |
 
 ## Emeritus
